@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["SoAHitIter",""],["SoAHitIterMut",""],["SoAHitRef",""],["SoAHitRefMut",""],["SoARayIter",""],["SoARayIterMut",""],["SoARayRef",""],["SoARayRefMut",""]],"trait":[["SoAHit",""],["SoARay",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["HitN",""],["RayHitN",""],["RayN","A ray stream stored in SoA format"]]});

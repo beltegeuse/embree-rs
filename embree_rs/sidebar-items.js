@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["aligned_vector","Utility for making specifically aligned vectors"],["aligned_vector_init",""]],"mod":[["buffer",""],["device",""],["geometry",""],["instance",""],["quad_mesh",""],["ray",""],["ray_packet",""],["ray_stream",""],["scene",""],["soa_ray",""],["sys",""],["triangle_mesh",""]]});
